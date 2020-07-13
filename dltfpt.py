@@ -7,4 +7,4 @@ print(positive.head())
 
 print('commit')
 print('second commit')
-print('this is the third comm')
+print('this is the third commit')
